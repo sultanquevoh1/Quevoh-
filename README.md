@@ -40,7 +40,7 @@ Chat Me on Whatsapp Now👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/+254769872864)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sultanquevoh1&repo=Sketchy&theme=nightowl)](https://github.com/sultanquevoh1/Quevoh)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sultanquevoh1&repo=QUEVOH&theme=nightowl)](https://github.com/sultanquevoh1/Quevoh)
   </div>
     
 ## Setup
